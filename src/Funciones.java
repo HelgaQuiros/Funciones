@@ -2,7 +2,7 @@
 public class Funciones {
 
 	public static void saludar () {
-		System.out.println("Hola Mundo!");
+		System.out.println("Hola Mundo");
 	}
 
 	public static String devuelveSaludo() {
