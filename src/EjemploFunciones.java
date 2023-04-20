@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class EjemploFunciones {
 	
 	public static int contarLineasFichero(String ruta) {
-		System.out.println();
+		
 		int lineas = 0;
 		try {
 			Scanner lectura = new Scanner(new File(ruta));
